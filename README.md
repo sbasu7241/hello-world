@@ -1,3 +1,3 @@
 # hello-world
-My first repository
+My first repository.
 Testing out how to commit on Github.
